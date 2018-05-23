@@ -1,11 +1,11 @@
-Pos,Jugador,Nacionalidad,Total,Actividad,img,url,Number
-1,Francisco Valdés,Chile,215,1961-1982,http://www.csdcolocolo.cl/sites/default/files/noticias/field-imagen/chamaco_600_2.jpg,https://es.wikipedia.org/wiki/Francisco_Valdés_Muñoz,máximo
-2,Pedro González,Chile,213,1985-2006,http://www.elperiscopio.cl/wp-content/uploads/2015/10/Heidi-700x400.jpg,https://es.wikipedia.org/wiki/Pedro_González_Vera,segundo
-3,Esteban Paredes,Chile,203,2000-,http://as01.epimg.net/chile/imagenes/2017/08/27/futbol/1503854023_333227_1503854096_noticia_normal.jpg,https://es.wikipedia.org/wiki/Esteban_Paredes,tercer
-4,Honorino Landa,Chile,193,1959-1973,http://www.adnradio.cl/images/201705307b6754c6.jpg,https://es.wikipedia.org/wiki/Honorino_Landa,cuarto
-5,Oscar Fabbiani,Argentina,188,1972-1992,https://d.rgcdn.net/0884bc98eb26df836bb03d9cf7d0e904/redgol-assets.s3.amazonaws.com/rg-assets_800f4d42cd697a37f041063479059489fabiiani/670x/redgol-assets.s3.amazonaws.jpg,https://es.wikipedia.org/wiki/Oscar_Fabbiani,quinto
-5,Marcelo Corrales,Chile,188,1990-2007,http://www.prensafutbol.cl/wp-content/uploads/2016/03/marcelocorrales_17.jpg,https://es.wikipedia.org/wiki/Marcelo_Corrales,sexto
-7,Carlos Campos,Chile,183,1956-1969,https://media.metrolatam.com/2017/07/23/captura-de-pantalla-20170723-a-las-17.44.04-1200x600.jpg,https://es.wikipedia.org/wiki/Carlos_Campos,séptimo
-8,Jaime Rivéros,Chile,175,1990-2011,http://img.emol.com/2011/11/25/File_20111125183827.jpg,https://es.wikipedia.org/wiki/Jaime_Riveros,octavo
-9,Atilio Cremaschi,Chile,174,1941-1960,https://pbs.twimg.com/media/BwomcyGIgAAuxAO.jpg,https://es.wikipedia.org/wiki/Atilio_Cremaschi,noveno
-10,Carlos Caszely,Chile,171,1967-1986,http://static.t13.cl/images/sizes/1200x675/1490797161-carlos-790x445.jpg,https://es.wikipedia.org/wiki/Carlos_Caszely,décimo
+Pos,Jugador,Nacionalidad,Total,Actividad,img,url,Number,Equipos
+1,Francisco Valdés,Chile,215,1961-1982,http://www.csdcolocolo.cl/sites/default/files/noticias/field-imagen/chamaco_600_2.jpg,https://es.wikipedia.org/wiki/Francisco_Valdés_Muñoz,máximo,"Colo-Colo, Unión Española, Santiago Wanderers, Deportes Antofagasta, Deportes Arica"
+2,Pedro González,Chile,213,1985-2006,http://www.elperiscopio.cl/wp-content/uploads/2015/10/Heidi-700x400.jpg,https://es.wikipedia.org/wiki/Pedro_González_Vera,segundo,"Valdivia, Unión Española, Coquimbo Unido, Cobreloa, Universidad de Chile"
+3,Esteban Paredes,Chile,203,2000-Actualidad,http://as01.epimg.net/chile/imagenes/2017/08/27/futbol/1503854023_333227_1503854096_noticia_normal.jpg,https://es.wikipedia.org/wiki/Esteban_Paredes,tercer,"Colo-Colo, Santiago Morning, Universidad de Concepción, Cobreloa"
+4,Honorino Landa,Chile,193,1959-1973,http://www.adnradio.cl/images/201705307b6754c6.jpg,https://es.wikipedia.org/wiki/Honorino_Landa,cuarto,"Unión Española, Green Cross-Temuco"
+5,Oscar Fabbiani,Argentina,188,1972-1992,https://d.rgcdn.net/0884bc98eb26df836bb03d9cf7d0e904/redgol-assets.s3.amazonaws.com/rg-assets_800f4d42cd697a37f041063479059489fabiiani/670x/redgol-assets.s3.amazonaws.jpg,https://es.wikipedia.org/wiki/Oscar_Fabbiani,quinto,"	Unión San Felipe, Palestino, Everton, Deportes Iquique"
+5,Marcelo Corrales,Chile,188,1990-2007,http://www.prensafutbol.cl/wp-content/uploads/2016/03/marcelocorrales_17.jpg,https://es.wikipedia.org/wiki/Marcelo_Corrales,sexto,"Palestino, Temuco, Osorno, Wanderers, San Felipe, Puerto Montt, Coquimbo"
+7,Carlos Campos,Chile,183,1956-1969,https://media.metrolatam.com/2017/07/23/captura-de-pantalla-20170723-a-las-17.44.04-1200x600.jpg,https://es.wikipedia.org/wiki/Carlos_Campos,séptimo,"Universidad de Chile"
+8,Jaime Rivéros,Chile,175,1990-2011,http://img.emol.com/2011/11/25/File_20111125183827.jpg,https://es.wikipedia.org/wiki/Jaime_Riveros,octavo,"O'Higgins, Cobreloa, Wanderers, U.de Chile, Everton, Huachipato, Palestino"
+9,Atilio Cremaschi,Chile,174,1941-1960,https://pbs.twimg.com/media/BwomcyGIgAAuxAO.jpg,https://es.wikipedia.org/wiki/Atilio_Cremaschi,noveno,"Unión Española, Colo-Colo, Rangers"
+10,Carlos Caszely,Chile,171,1967-1986,http://static.t13.cl/images/sizes/1200x675/1490797161-carlos-790x445.jpg,https://es.wikipedia.org/wiki/Carlos_Caszely,décimo,"Colo-Colo"
