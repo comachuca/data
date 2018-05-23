@@ -1,11 +1,11 @@
-Pos,Jugador,Nacionalidad,Total,Actividad,img,url
-1,Francisco Valdes,Chile,215,1961-1982,http://www.csdcolocolo.cl/sites/default/files/noticias/field-imagen/chamaco_600_2.jpg,https://es.wikipedia.org/wiki/Francisco_Valdés_Muñoz
-2,Pedro Gonzalez,Chile,213,1985-2006,https://futboltodo.com/wp-content/uploads/2018/02/FOTO_0120110610170937.jpg,https://es.wikipedia.org/wiki/Pedro_González_Vera
-3,Esteban Paredes,Chile,203,2000-,http://as01.epimg.net/chile/imagenes/2017/08/27/futbol/1503854023_333227_1503854096_noticia_normal.jpg,https://es.wikipedia.org/wiki/Esteban_Paredes
-4,Honorino Landa,Chile,193,1959-1973,http://www.adnradio.cl/images/201705307b6754c6.jpg,https://es.wikipedia.org/wiki/Honorino_Landa
-5,Oscar Fabbiani,Argentina,188,1972-1992,https://d.rgcdn.net/0884bc98eb26df836bb03d9cf7d0e904/redgol-assets.s3.amazonaws.com/rg-assets_800f4d42cd697a37f041063479059489fabiiani/670x/redgol-assets.s3.amazonaws.jpg,https://es.wikipedia.org/wiki/Oscar_Fabbiani
-5,Marcelo Corrales,Chile,188,1990-2007,http://www.prensafutbol.cl/wp-content/uploads/2016/03/marcelocorrales_17.jpg,https://es.wikipedia.org/wiki/Marcelo_Corrales
-7,Carlos Campos,Chile,183,1956-1969,https://media.metrolatam.com/2017/07/23/captura-de-pantalla-20170723-a-las-17.44.04-1200x600.jpg,https://es.wikipedia.org/wiki/Carlos_Campos
-8,Jaime Riveros,Chile,175,1990-2011,http://img.emol.com/2011/11/25/File_20111125183827.jpg,https://es.wikipedia.org/wiki/Jaime_Riveros
-9,Atilio Cremaschi,Chile,174,1941-1960,https://pbs.twimg.com/media/BwomcyGIgAAuxAO.jpg,https://es.wikipedia.org/wiki/Atilio_Cremaschi
-10,Carlos Caszely,Chile,171,1967-1986,http://static.t13.cl/images/sizes/1200x675/1490797161-carlos-790x445.jpg,https://es.wikipedia.org/wiki/Carlos_Caszely
+Pos,Jugador,Nacionalidad,Total,Actividad,img,url,Number
+1,Francisco Valdés,Chile,215,1961-1982,http://www.csdcolocolo.cl/sites/default/files/noticias/field-imagen/chamaco_600_2.jpg,https://es.wikipedia.org/wiki/Francisco_Valdés_Muñoz,primero
+2,Pedro González,Chile,213,1985-2006,https://futboltodo.com/wp-content/uploads/2018/02/FOTO_0120110610170937.jpg,https://es.wikipedia.org/wiki/Pedro_González_Vera,segundo
+3,Esteban Paredes,Chile,203,2000-,http://as01.epimg.net/chile/imagenes/2017/08/27/futbol/1503854023_333227_1503854096_noticia_normal.jpg,https://es.wikipedia.org/wiki/Esteban_Paredes,tercero
+4,Honorino Landa,Chile,193,1959-1973,http://www.adnradio.cl/images/201705307b6754c6.jpg,https://es.wikipedia.org/wiki/Honorino_Landa,cuarto
+5,Oscar Fabbiani,Argentina,188,1972-1992,https://d.rgcdn.net/0884bc98eb26df836bb03d9cf7d0e904/redgol-assets.s3.amazonaws.com/rg-assets_800f4d42cd697a37f041063479059489fabiiani/670x/redgol-assets.s3.amazonaws.jpg,https://es.wikipedia.org/wiki/Oscar_Fabbiani,quinto
+5,Marcelo Corrales,Chile,188,1990-2007,http://www.prensafutbol.cl/wp-content/uploads/2016/03/marcelocorrales_17.jpg,https://es.wikipedia.org/wiki/Marcelo_Corrales,sexto
+7,Carlos Campos,Chile,183,1956-1969,https://media.metrolatam.com/2017/07/23/captura-de-pantalla-20170723-a-las-17.44.04-1200x600.jpg,https://es.wikipedia.org/wiki/Carlos_Campos,séptimo
+8,Jaime Rivéros,Chile,175,1990-2011,http://img.emol.com/2011/11/25/File_20111125183827.jpg,https://es.wikipedia.org/wiki/Jaime_Riveros,octavo
+9,Atilio Cremaschi,Chile,174,1941-1960,https://pbs.twimg.com/media/BwomcyGIgAAuxAO.jpg,https://es.wikipedia.org/wiki/Atilio_Cremaschi,noveno
+10,Carlos Caszely,Chile,171,1967-1986,http://static.t13.cl/images/sizes/1200x675/1490797161-carlos-790x445.jpg,https://es.wikipedia.org/wiki/Carlos_Caszely,décimo
